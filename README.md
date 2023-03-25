@@ -1,2 +1,2 @@
 # Todo-App
-A simple todo-app written in python.
+A simple todo-Web-app written in python.
